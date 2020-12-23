@@ -66,7 +66,7 @@ GoogleSignin.configure({
 
 #### `signIn()`
 
-Prompts a modal to let the user sign in into your application. Resolved promise returns an [`userInfo` object](#3-userinfo). Rejects with error otherwise.
+Prompts a modal to let the user sign in into your application. Resolved promise returns a [`userInfo` object](#3-userinfo). Rejects with error otherwise.
 
 ```js
 // import statusCodes along with GoogleSignin
